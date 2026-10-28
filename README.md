@@ -8,7 +8,10 @@
 * C
 * HTML
 * CSS
+* Angular
+* Typescript
 * Git (Ferramenta para versionamento de projetos)
+
 
 ## Outras redes 
 
