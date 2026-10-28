@@ -13,8 +13,8 @@
 * Git (Ferramenta para versionamento de projetos)
 
 
-## Outras redes 
+## 🌐 Outras redes 
 
- GitHub: https://github.com/ChristianGIT185 
+ 🔗GitHub: https://github.com/ChristianGIT185 
  
- Linkedin: www.linkedin.com/in/christian-moreira-b7101b344
+ 🔗Linkedin: www.linkedin.com/in/christian-moreira-b7101b344
