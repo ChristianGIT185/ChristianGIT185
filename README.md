@@ -11,5 +11,8 @@
 * CSS
 * Git (Ferramenta para versionamento de projetos)
 
- GitHub: https://github.com/ChristianGIT185 \n
+## Outras redes 
+
+ GitHub: https://github.com/ChristianGIT185 
+ 
  Linkedin: www.linkedin.com/in/christian-moreira-b7101b344
