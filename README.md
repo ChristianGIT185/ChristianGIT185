@@ -1,8 +1,7 @@
 # Olá, me chamo Christian 😄
 
 
-## 💻🚀 Sou estudante de ADS (Análise e desenvolvimento de sistemas) buscando uma oportunidade de ingressar no mercado de trabalho como estagiário. Sou movido pela paixão em construir projetos autênticos e inovadores que tragam impactos positivos para a sociedade.
-
+## 💻🚀 Sou estudante de ADS (Análise e desenvolvimento de sistemas), buscando desenvolver, aplicar e integrar meu conhecimento em projetos reais e autênticos que tragam impactos positivos para a sociedade.
 
  📚 Atualmente, utilizo linguagens de programação como:
 * Java
