@@ -5,7 +5,8 @@
 
 ### 💻 Desenvolvedor em formação | Estudante de ADS
 
-<img src="./assets/programador-neon.gif" width="320" alt="Personagem animado programando"/>
+<img src="./assets/programador Neon em Nove Momentos Animados.gif
+" width="320" alt="Personagem animado programando"/>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Estudando+Java+e+POO;Construindo+novos+projetos!" />
