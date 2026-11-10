@@ -49,7 +49,7 @@
 
 ---
 
-## 🎯 objetivos
+## 🎯 Objetivos
 
 - [ ] Aprofundar meus conhecimentos em Java.
 - [ ] Aprender mais sobre Spring Boot.
