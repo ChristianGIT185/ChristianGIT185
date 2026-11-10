@@ -54,6 +54,7 @@
 - [ ] Desenvolver aplicações completas.
 - [ ] Trabalhar com banco de dados.
 - [ ] Construir projetos cada vez melhores.
+- [ ] Transformar dados em informações acessíveis
 
 ---
 
